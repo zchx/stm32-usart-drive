@@ -1,0 +1,40 @@
+
+***VDMAPI Terminated
+API[0]: vdm_open
+API[0]: vdm_init
+COMMAND[0]: code=1, space=0, addr=00000000, data=128
+RESULT[0]: 0
+API[0]: vdm_close
+
+***VDMAPI Terminated
+
+***VDMAPI Terminated
+API[0]: vdm_open
+API[0]: vdm_init
+API[0]: vdm_close
+
+***VDMAPI Terminated
+API[0]: vdm_open
+API[0]: vdm_init
+API[0]: vdm_close
+
+***VDMAPI Terminated
+
+***VDMAPI Terminated
+API[0]: vdm_open
+API[0]: vdm_init
+API[0]: vdm_close
+
+***VDMAPI Terminated
+
+***VDMAPI Terminated
+
+***VDMAPI Terminated
+
+***VDMAPI Terminated
+
+***VDMAPI Terminated
+
+***VDMAPI Terminated
+
+***VDMAPI Terminated
